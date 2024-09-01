@@ -1,0 +1,17 @@
+#root {
+  border: 1px solid #ccc;
+}
+
+.folder {
+  padding: 4px;
+  padding-left: 20px;
+}
+
+.file {
+  padding: 4px;
+  padding-left: 20px;
+}
+
+.name:hover {
+  background-color: #ccc;
+}
